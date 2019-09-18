@@ -21,6 +21,6 @@
 ### Algorytm
 ![Algorytm](/doc/algorytm.png)
 
-## Dokumentacja
-### Przetwornik (TC500ACPE):
+## Dokumentacja:
+### Przetwornik (TC500ACPE)
 ![Przetwornik](/doc/przetwornik.png)
