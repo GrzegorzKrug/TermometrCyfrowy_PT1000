@@ -7,6 +7,9 @@
 ![Scheme](/doc/schemat.png)
 
 ### Prototyp oprogramowania:
-![Przetwornik](/doc/przetwornik.png)
 ![Algorytm](/doc/algorytm.png)
-	GccApplication1.c
+
+#### GccApplication1.c
+
+### Zasada działania przetwornika 
+![Przetwornik](/doc/przetwornik.png)
