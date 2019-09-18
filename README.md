@@ -1,5 +1,5 @@
 # Zachodniopomorski Uniwersytet Technologiczny
-# Elektronika Programowalna – PROJEKT
+## Elektronika Programowalna – PROJEKT
 
 ## Termometr cyfrowy z czujnikiem temperatury PT1000, z wyświetlaczem 7-segmentowym LED.
 
