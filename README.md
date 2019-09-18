@@ -8,18 +8,18 @@
 ### Automatyka i Robotyka
 
 # Source code:
-## GccApplication1.c
+### GccApplication1.c
 
-# Uproszczony układ
+# Prototype
+
+## Uproszczony układ
 ![uklad](/doc/uklad.png)
 
 ## Schemat układu
 ![Scheme](/doc/schemat.png)
 
-# Prototyp oprogramowania:
 ## Algorytm:
 ![Algorytm](/doc/algorytm.png)
 
-# Zasada działania przetwornika:
-## Dokumentacja
+## Przetwornik (converter):
 ![Przetwornik](/doc/przetwornik.png)
