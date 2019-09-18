@@ -17,7 +17,9 @@
 ## Algorytm:
 ![Algorytm](/doc/algorytm.png)
 
-## Kod: GccApplication1.c
+## Kod:
+### GccApplication1.c
 
-## Zasada działania przetwornika (dokumentacja): 
+## Zasada działania przetwornika:
+### Dokumentacja:
 ![Przetwornik](/doc/przetwornik.png)
