@@ -7,17 +7,17 @@
 
 ### Automatyka i Robotyka
 
-## Uproszczony układ
+# Uproszczony układ
 ![uklad](/doc/uklad.png)
 
-### Schemat układu
+## Schemat układu
 ![Scheme](/doc/schemat.png)
 
-## Prototyp oprogramowania:
-### Algorytm:
+# Prototyp oprogramowania:
+## Algorytm:
 ![Algorytm](/doc/algorytm.png)
 
-### Kod: GccApplication1.c
+## Kod: GccApplication1.c
 
-### Zasada działania przetwornika (dokumentacja): 
+## Zasada działania przetwornika (dokumentacja): 
 ![Przetwornik](/doc/przetwornik.png)
