@@ -10,16 +10,17 @@
 # Source code:
 ### GccApplication1.c
 
-# Prototype
+# Prototyp:
 
-## Uproszczony układ
+### Uproszczony układ
 ![uklad](/doc/uklad.png)
 
-## Schemat układu
+### Schemat układu
 ![Scheme](/doc/schemat.png)
 
-## Algorytm:
+### Algorytm
 ![Algorytm](/doc/algorytm.png)
 
-## Przetwornik (converter):
+## Dokumentacja
+### Przetwornik (TC500ACPE):
 ![Przetwornik](/doc/przetwornik.png)
