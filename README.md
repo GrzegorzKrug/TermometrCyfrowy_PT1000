@@ -26,3 +26,6 @@
 ## Dokumentacja:
 ### Przetwornik (TC500ACPE)
 ![Przetwornik](/doc/przetwornik.png)
+
+
+# Jestem wyłącznym autorem niniejszego projektu, praca ta została wykonana samodzielnie i nie narusza praw autorskich innych osób.
