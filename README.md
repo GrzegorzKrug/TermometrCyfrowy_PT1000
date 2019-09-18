@@ -1,13 +1,13 @@
 # Zachodniopomorski Uniwersytet Technologiczny
 ## Elektronika Programowalna – PROJEKT
 
-## Termometr cyfrowy z czujnikiem temperatury PT1000, z wyświetlaczem 7-segmentowym LED.
+### Termometr cyfrowy z czujnikiem temperatury PT1000, z wyświetlaczem 7-segmentowym LED.
 
-## Krug Grzegorz
+### Krug Grzegorz
 
-## Automatyka i Robotyka
+### Automatyka i Robotyka
 
-### Uproszczony układ
+## Uproszczony układ
 ![uklad](/doc/uklad.png)
 
 ### Schemat układu
