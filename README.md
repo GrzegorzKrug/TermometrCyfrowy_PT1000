@@ -3,7 +3,7 @@
 # Temat projektu:
 ## Termometr cyfrowy z czujnikiem temperatury PT1000, z wyświetlaczem 7-segmentowym LED.
 
-![uklad](/doc/uklad.png.png)
+![uklad](/doc/uklad.png)
 ![Scheme](/doc/schemat.png)
 
 ### Prototyp oprogramowania:
