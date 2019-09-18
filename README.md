@@ -2,7 +2,10 @@
 
 ## Termometr cyfrowy z czujnikiem temperatury PT1000, z wyświetlaczem 7-segmentowym LED.
 
+### Uproszczony układ
 ![uklad](/doc/uklad.png)
+
+### Schemat układu
 ![Scheme](/doc/schemat.png)
 
 ## Prototyp oprogramowania:
