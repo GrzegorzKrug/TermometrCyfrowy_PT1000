@@ -7,6 +7,9 @@
 
 ### Automatyka i Robotyka
 
+# Source code:
+## GccApplication1.c
+
 # Uproszczony układ
 ![uklad](/doc/uklad.png)
 
@@ -17,9 +20,6 @@
 ## Algorytm:
 ![Algorytm](/doc/algorytm.png)
 
-## Kod:
-### GccApplication1.c
-
-## Zasada działania przetwornika:
-### Dokumentacja:
+# Zasada działania przetwornika:
+## Dokumentacja
 ![Przetwornik](/doc/przetwornik.png)
