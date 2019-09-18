@@ -1,6 +1,11 @@
+# Zachodniopomorski Uniwersytet Technologiczny
 # Elektronika Programowalna – PROJEKT
 
 ## Termometr cyfrowy z czujnikiem temperatury PT1000, z wyświetlaczem 7-segmentowym LED.
+
+## Krug Grzegorz
+
+## Automatyka i Robotyka
 
 ### Uproszczony układ
 ![uklad](/doc/uklad.png)
@@ -9,10 +14,10 @@
 ![Scheme](/doc/schemat.png)
 
 ## Prototyp oprogramowania:
-### Algorytm
+### Algorytm:
 ![Algorytm](/doc/algorytm.png)
 
-### Kod źródłowy: GccApplication1.c
+### Kod: GccApplication1.c
 
-### Zasada działania przetwornika 
+### Zasada działania przetwornika (dokumentacja): 
 ![Przetwornik](/doc/przetwornik.png)
